@@ -1,0 +1,1 @@
+{"rules":[{"result":"ALIVE","number":3,"condition":"EQUAL","self":"DEAD","neighborState":"ALIVE"},{"result":"DEAD","number":3,"condition":"MORE","self":"ALIVE","neighborState":"ALIVE"},{"result":"DEAD","number":2,"condition":"LESS","self":"ALIVE","neighborState":"ALIVE"}]}
